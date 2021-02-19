@@ -2,7 +2,7 @@
   "name": "ghost",
   "description": "Ghost XRPackage",
   "xr_type": "webxr-site@0.0.1",
-  "start_url": "dragon.glb",
+  "start_url": "ghost.glb",
   "components": [
     {
       "type": "npc",
