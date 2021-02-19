@@ -6,7 +6,9 @@
   "components": [
     {
       "type": "npc",
-      "walkAnimation": "Take 001"
+      "idleAnimation": "Take 001",
+      "walkSpeed": 0.3,
+      "aggroDistance": 10
     }
   ]
 }
