@@ -7,7 +7,7 @@
     {
       "type": "npc",
       "idleAnimation": "Take 001",
-      "walkSpeed": 0.3,
+      "walkSpeed": 0.000003,
       "aggroDistance": 10
     }
   ]
