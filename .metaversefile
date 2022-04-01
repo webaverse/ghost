@@ -1,0 +1,14 @@
+{
+  "name": "ghost",
+  "start_url": "ghost.glb",
+  "components": [
+    {
+      "key": "mob",
+      "value": {
+        "idleAnimation": "Take 001",
+        "walkSpeed": 0.000003,
+        "aggroDistance": 10
+      }
+    }
+  ]
+}
