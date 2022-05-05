@@ -1,5 +1,6 @@
 {
   "name": "ghost",
+  "description": "ghost",
   "start_url": "ghost.glb",
   "components": [
     {
