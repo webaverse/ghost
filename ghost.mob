@@ -1,0 +1,9 @@
+{
+  "mobUrl": "ghost.glb",
+  "radius": 0.3,
+  "height": 0.8,
+  "position": [0, 1, 0],
+  "idleAnimation": "Take 001",
+  "walkSpeed": 0.000003,
+  "aggroDistance": 10
+}
